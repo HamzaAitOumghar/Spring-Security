@@ -11,4 +11,4 @@ Features :
 
 ---> Using a provided implementation of PasswordEncoder (BCryptPasswordEncoder & SCryptPasswordEncoder)
 
----> Defining your authentication logic by implementing an AuthenticationProvider
+---> Defining  authentication logic by implementing an AuthenticationProvider
